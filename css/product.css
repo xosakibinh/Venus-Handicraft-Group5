@@ -36,7 +36,7 @@
 /* Format cho the li cua Menu-left */
 .main-nav-ul li{
     border: 1px solid white;
-    padding-left: 10px;
+    padding-left: 5px;
     text-transform: uppercase;
 }
 
