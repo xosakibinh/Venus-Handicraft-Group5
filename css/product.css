@@ -1,0 +1,78 @@
+
+
+/* Format cho Menu-left */
+.menu-left{
+    width: 270px;
+    height: 2500px;
+    padding-right: 30px;
+}
+
+/* Format cho Tieu de Menu-left */
+.menu-left .h3{
+    width: 240px;
+    background-color: white;
+    font-size: 30px;
+    color: firebrick;
+    font-weight: 700;
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: uppercase;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+/* Format cho the navigation Menu-left */
+.main-nav{
+    background-color: #f0f7f7;
+}
+
+/* Format cho the ul cua Menu-left */
+.main-nav-ul{
+    list-style: none;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
+
+/* Format cho the li cua Menu-left */
+.main-nav-ul li{
+    border: 1px solid white;
+    padding-left: 20px;
+    text-transform: uppercase;
+}
+
+/* Format cho the li cua Menu-left khi hover */
+.main-nav-ul li:hover{
+    background-color: wheat;
+    color: firebrick;
+}
+
+/* An nut checkbox  */
+input[type="checkbox"] {
+    display:none;
+}
+
+input:checked + span{
+    color: firebrick; 
+    font-weight: bold;
+}
+
+/* Format khung bao chua danh sach Product ben phai */
+.img-right{
+    padding-top: 50px;
+}
+
+/* Format cho khung chua img va text */
+.divImage {
+    text-align: center;
+    /* border: solid goldenrod medium; */
+    padding: 8px;
+    
+}
+
+/* Format cho img cua Product */
+.Image {
+    width: 100%;
+    /* border: solid lightgray medium; */
+    display: block;
+    margin: auto;
+}
