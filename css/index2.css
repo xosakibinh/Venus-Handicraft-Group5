@@ -141,7 +141,7 @@ r  .top-bar-text {
     top: 0px;
     z-index: 99;
     box-shadow:0px 1px 10px rgba(0,0,0,0.4);
-    background-color:rgba(0,0,0,0.1);
+/*     background-color:rgba(0,0,0,0.1); */
     transition-duration: 10s; }
 
 /*    END HEADER NAVIGATION */
