@@ -11,7 +11,9 @@ Project title: Venus-Handicraft
 3 collaborators:
 
  Nguyen Xuan Binh	                Student1316191
- Nguyen Phu Thanh Binh	Student1316199 
+ 
+ Nguyen Phu Thanh Binh	Student1316199
+ 
 Trinh Minh Tam	                Student1313751
  
 ============================
