@@ -22,7 +22,7 @@ github report link: https://github.com/xosakibinh/Venus-Handicraft-Group5/tree/m
 
 ============================
 
-eProject published at: https://github.com/xosakibinh/Venus-Handicraft-Group5/
+eProject published at: https://xosakibinh.github.io/Venus-Handicraft-Group5/
 
 ============================
 
